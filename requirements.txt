@@ -3,7 +3,7 @@ librosa==0.8.0
 #numpy==1.17.1
 #opencv-contrib-python>=4.2.0.34
 #opencv-python==4.1.0.25
-opencv-contrib-python
+opencv-contrib-python==3.4.11.45
 opencv-python
 #torch==1.1.0
 #torchvision==0.3.0
